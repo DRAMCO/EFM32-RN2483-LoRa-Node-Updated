@@ -54,7 +54,7 @@ GNU ARM v* - Release/**/*
 *.prefs
 .project
 *.project
-.cproject
-*.cproject
+# .cproject
+# *.cproject
 .html
 *.html
