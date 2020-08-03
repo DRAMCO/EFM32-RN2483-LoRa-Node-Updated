@@ -50,12 +50,11 @@ GNU ARM v* - Debug/*
 GNU ARM v* - Debug/**/*
 GNU ARM v* - Release/*
 GNU ARM v* - Release/**/*
+.prefs
 *.prefs
 .project
+*.project
+.cproject
 *.cproject
-*.prefs
-*.cproject
-.project
-*.prefs
-*.html
+.html
 *.html
